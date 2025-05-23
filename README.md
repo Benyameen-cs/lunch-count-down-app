@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Benyameen-cs/lunch-count-down-app)
+- Live Site URL: [live count down](https://lunch-count-down.netlify.app/)
 
 ## My process
 
